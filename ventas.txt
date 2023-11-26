@@ -1,0 +1,4 @@
+Local1 lupe 500.00 5
+local2 maria 27.60 3
+local3 maria 56 3
+local5 mariuxi 27.60 2 cocineta

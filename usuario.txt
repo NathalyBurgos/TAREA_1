@@ -1,0 +1,3 @@
+bodeguero nathaly 123
+administrador jose 456
+vendedor maria 789
