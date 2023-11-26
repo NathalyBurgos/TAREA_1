@@ -1,6 +1,5 @@
 CC = clang
-CFLAGS = -g -Wall -Wextra -pthread -lm -Wno-unused-result
-
+CFLAGS = -g -Wall -Wextra -pthread
 SRCS = main.c funciones.c 
 HEADERS = funciones.h 
 
